@@ -9,5 +9,5 @@ At the moment, my main focus is on **JavaScript** and core frontend concepts.
 Growth and development in various fields of technology and programming. I look forward to working with friends who are as interested and love to work and grow in this field as I am.- Building a strong foundation as a Frontend Developer  
 
 
-I’m always open to collaborating with people who are interested in learning, growing, and.
+I’m always open to collaborating with people who are interested in learning, growing.
 

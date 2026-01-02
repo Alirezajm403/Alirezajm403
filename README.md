@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi there, I’m Alireza Jamali
 
-<!--
-**Alirezajm403/Alirezajm403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m energetic guy from Iran with a strong interest in frontend development.  
+I’m currently learning different areas of programming and enjoy sharing knowledge, exchanging ideas, and collaborating with others to solve problems.
 
-Here are some ideas to get you started:
+At the moment, my main focus is on **JavaScript** and core frontend concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+Growth and development in various fields of technology and programming. I look forward to working with friends who are as interested and love to work and grow in this field as I am.- Building a strong foundation as a Frontend Developer  
+
+
+I’m always open to collaborating with people who are interested in learning, growing, and.
+
